@@ -1,0 +1,33 @@
+body {
+    background: url('images/ikan.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: fit;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+    margin-top: 70%;
+}
+
+.btn_enter {
+    background-color: skyblue;
+    padding: 10px;
+    border: 3px solid white;
+    border-radius: 10%;
+    cursor: pointer;
+}
+
+.btn_enter:hover {
+    background-color: #1d787d;
+    transition: .4s ease-in-out;
+    transition-delay: .3s;
+}
+
+.footer {
+    font-size: 11px;
+}
