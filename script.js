@@ -1,4 +1,4 @@
 
 function go() {
-    location.href = "onbutton.html";
+    location.href = "onButton/onbutton.html";
 }
